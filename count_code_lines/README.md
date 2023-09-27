@@ -4,7 +4,7 @@
 
 ## Description
 
-Count Code Lines is a python script written to count the lines of code in a specific file automatically not ignoring empty lines and comments.
+Count Code Lines is a python script written to count the lines of code in a specific file automatically ignoring empty lines and comments.
 Input error handling is also implemented if the incorrect command line arguments were given as well as for if the file does not exists.
 The lines of the file that the user would like to count should be specified as a command line argument.
 ## Usage
